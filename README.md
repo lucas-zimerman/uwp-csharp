@@ -11,7 +11,7 @@ You must have [Developer mode](https://docs.microsoft.com/en-us/windows/apps/get
 All you need to do is to open the project with Visual Studio and run the project.
 
 ## Requirements
-* Windows 10 10.0.240 or higher.
+* Windows 10 build 16299 or higher.
 * Sentry.NET SDK 3.0.0 or higher.
 * Visual Studio 2019 or newer.
 
