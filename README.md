@@ -1,26 +1,26 @@
-# UWP + Sentry
-UWP Demo project for Sentry
+# Universal Windows Platform Sentry demo
 
-## Installation
+UWP Demo project for Sentry using the .NET SDK
 
-https://docs.sentry.io/platforms/dotnet/#install
+## See this sample in action on YouTube
 
-### Deploying
+[![Sentry UWP demo](https://img.youtube.com/vi/r5ZR11HC3Hs/0.jpg)](https://www.youtube.com/watch?v=r5ZR11HC3Hs)
+
+### Run the sample
+
+#### Requirements
+
+Install the required SDK:
+* Windows 10 build 16299 or higher.
+* Sentry.NET SDK 3.0.0 or higher.
+* Visual Studio 2019 or newer.
+* [Universal Windows Platform development SDK](https://docs.microsoft.com/en-us/visualstudio/cross-platform/develop-apps-for-the-universal-windows-platform-uwp?view=vs-2019)
+
+#### Deploying
 
 You must have [Developer mode](https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development?OCID=WinClient_Ver1703_Settings_DevMode) activated on your Windows device.
 All you need to do is to open the project with Visual Studio and run the project.
 
-## Requirements
-* Windows 10 build 16299 or higher.
-* Sentry.NET SDK 3.0.0 or higher.
-* Visual Studio 2019 or newer.
-
 ## Screenshots 
 ![Start Screen](/Screenshots/Title.png)
 ![Menu Screen](/Screenshots/Menu.png)
-
-
-## Demonstration
-
-[![Sentry UWP demo](https://img.youtube.com/vi/r5ZR11HC3Hs/0.jpg)](https://www.youtube.com/watch?v=r5ZR11HC3Hs)
-
