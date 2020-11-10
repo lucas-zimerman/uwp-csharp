@@ -1,4 +1,9 @@
-﻿<Page
+﻿<!--Credits
+    Lamp: https://www.iconspng.com/image/43308/light-bulb-on-off
+    Cooker: https://pixabay.com/vectors/cooker-stove-retro-pink-household-295135/
+    Explosion sound: Iwiploppenisse https://freesound.org/people/Iwiploppenisse/sounds/156031/
+-->
+<Page
     x:Class="Sentry.Samples.Uwp.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
