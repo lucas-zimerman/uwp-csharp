@@ -12,7 +12,6 @@ UWP Demo project for Sentry using the .NET SDK
 
 Install the required SDK:
 * Windows 10 build 16299 or higher.
-* Sentry.NET SDK 3.0.0 or higher.
 * Visual Studio 2019 or newer.
 * [Universal Windows Platform development SDK](https://docs.microsoft.com/en-us/visualstudio/cross-platform/develop-apps-for-the-universal-windows-platform-uwp?view=vs-2019)
 
