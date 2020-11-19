@@ -21,5 +21,4 @@ You must have [Developer mode](https://docs.microsoft.com/en-us/windows/apps/get
 All you need to do is to open the project with Visual Studio and run the project.
 
 ## Screenshots 
-![Start Screen](/Screenshots/Title.png)
 ![Menu Screen](/Screenshots/Menu.png)
